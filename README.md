@@ -1,2 +1,2 @@
 # Google_home
-Google home prototype
+Google home
